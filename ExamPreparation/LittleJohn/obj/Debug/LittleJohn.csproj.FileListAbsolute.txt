@@ -1,0 +1,5 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\bin\Debug\LittleJohn.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\bin\Debug\LittleJohn.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\bin\Debug\LittleJohn.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\obj\Debug\LittleJohn.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\obj\Debug\LittleJohn.pdb
