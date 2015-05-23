@@ -1,0 +1,5 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\MatrixRotation\bin\Debug\MatrixRotation.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\MatrixRotation\bin\Debug\MatrixRotation.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\MatrixRotation\bin\Debug\MatrixRotation.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\MatrixRotation\obj\Debug\MatrixRotation.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\MatrixRotation\obj\Debug\MatrixRotation.pdb
