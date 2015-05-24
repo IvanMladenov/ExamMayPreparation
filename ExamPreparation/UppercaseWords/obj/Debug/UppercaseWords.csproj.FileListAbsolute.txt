@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\bin\Debug\UppercaseWords.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\bin\Debug\UppercaseWords.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\bin\Debug\UppercaseWords.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.pdb

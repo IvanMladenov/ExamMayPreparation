@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\bin\Debug\TextGravity.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\bin\Debug\TextGravity.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\bin\Debug\TextGravity.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.pdb
