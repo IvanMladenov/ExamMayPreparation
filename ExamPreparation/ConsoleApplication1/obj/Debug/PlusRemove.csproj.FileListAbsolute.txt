@@ -4,3 +4,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\PlusRemove.csprojResolveAssemblyReference.cache
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

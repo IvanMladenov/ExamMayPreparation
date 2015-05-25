@@ -3,3 +3,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\bin\Deb
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\bin\Debug\LittleJohn.pdb
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\obj\Debug\LittleJohn.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\LittleJohn\obj\Debug\LittleJohn.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\LittleJohn\bin\Debug\LittleJohn.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\LittleJohn\obj\Debug\LittleJohn.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\LittleJohn\obj\Debug\LittleJohn.pdb
