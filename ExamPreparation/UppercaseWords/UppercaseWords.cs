@@ -27,15 +27,16 @@ namespace UppercaseWords
                 foreach(string unique in noRepeats)
                 {
                     string reversed = Reverse(unique);
+                    string proba = @"\b" + unique;
+                    Regex rep = new Regex(proba);
+
                     if (unique != reversed)
                     {
-                        
-                        inputLine = inputLine.Replace(unique, reversed);
+                        inputLine = rep.Replace(inputLine, reversed);
                     }
                     else
                     {
-                        //inputLine = Regex.Replace(inputLine, unique, DoubleChars(unique));
-                        inputLine = inputLine.Replace(reversed, DoubleChars(reversed));
+                        inputLine = rep.Replace(inputLine,DoubleChars(unique));
                     }
                 }
                 result.Add(inputLine);

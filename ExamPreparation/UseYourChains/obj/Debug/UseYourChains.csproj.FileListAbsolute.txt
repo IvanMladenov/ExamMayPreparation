@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UseYourChains\bin\Debug\UseYourChains.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UseYourChains\bin\Debug\UseYourChains.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UseYourChains\bin\Debug\UseYourChains.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UseYourChains\obj\Debug\UseYourChains.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UseYourChains\obj\Debug\UseYourChains.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UseYourChains\obj\Debug\UseYourChains.pdb
