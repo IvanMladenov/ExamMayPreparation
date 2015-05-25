@@ -3,3 +3,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\X-Removal\bin\Debu
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\X-Removal\bin\Debug\X-Removal.pdb
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\X-Removal\obj\Debug\X-Removal.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\X-Removal\obj\Debug\X-Removal.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\X-Removal\bin\Debug\X-Removal.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\X-Removal\obj\Debug\X-Removal.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\X-Removal\obj\Debug\X-Removal.pdb
