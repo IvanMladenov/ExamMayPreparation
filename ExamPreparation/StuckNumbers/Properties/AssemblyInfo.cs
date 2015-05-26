@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ClearingCommands")]
+[assembly: AssemblyTitle("StuckNumbers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClearingCommands")]
+[assembly: AssemblyProduct("StuckNumbers")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5335ed3d-9868-4dc2-8c86-22c8afcb796a")]
+[assembly: Guid("85aa778b-71fc-408e-8ff9-f9c98863de4d")]
 
 // Version information for an assembly consists of the following four values:
 //
