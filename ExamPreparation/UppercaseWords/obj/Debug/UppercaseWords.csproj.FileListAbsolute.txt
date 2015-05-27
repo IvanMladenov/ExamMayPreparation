@@ -4,3 +4,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\bin
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.csprojResolveAssemblyReference.cache
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\UppercaseWords\bin\Debug\UppercaseWords.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\UppercaseWords\obj\Debug\UppercaseWords.pdb

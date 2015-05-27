@@ -4,3 +4,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SemanthicHTML\bin\
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanticHTML.csprojResolveAssemblyReference.cache
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\bin\Debug\SemanthicHTML.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.pdb

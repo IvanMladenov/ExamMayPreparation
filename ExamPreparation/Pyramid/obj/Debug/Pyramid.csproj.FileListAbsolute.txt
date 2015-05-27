@@ -1,0 +1,6 @@
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\bin\Debug\Pyramid.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\bin\Debug\Pyramid.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\bin\Debug\Pyramid.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.pdb
