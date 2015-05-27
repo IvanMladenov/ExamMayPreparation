@@ -12,40 +12,72 @@ namespace UppercaseWords
     {
         static void Main(string[] args)
         {
-            string inputLine = Console.ReadLine();
-            string pattern = @"^[A-Z]+(?=[^\w])|(?<=[^\w])[A-Z]+$|(?<=[^\w])[A-Z]+(?=[^\w])";
+            string input = Console.ReadLine();
+            string pattern = @"(?<=[^a-zA-Z]|^)([A-Z]*)(?=[^a-zA-Z]|$)";
             Regex reg = new Regex(pattern);
-            List<string> result = new List<string>();
-            while(!inputLine.Contains("END"))
+
+            while(!input.Contains("END"))
             {
-                MatchCollection matches = reg.Matches(inputLine);
+                MatchCollection matches = reg.Matches(input);
                 HashSet<string> noRepeats = new HashSet<string>();
-                foreach(Match match in matches)
+
+                foreach (Match match in matches)
                 {
                     noRepeats.Add(match.ToString());
                 }
-                foreach(string unique in noRepeats)
+                foreach (string unique in noRepeats)
                 {
-                    string reversed = Reverse(unique);
-                    string proba = @"\b" + unique;
-                    Regex rep = new Regex(proba);
 
-                    if (unique != reversed)
+                    if(unique==Reverse(unique))
                     {
-                        inputLine = rep.Replace(inputLine, reversed);
+                        string replacePattern = string.Format("(?<=[^a-zA-Z]){0}(?=[^a-zA-Z])", unique);
+                        input = Regex.Replace(input, replacePattern, DoubleChars(unique));
+
                     }
                     else
                     {
-                        inputLine = rep.Replace(inputLine,DoubleChars(unique));
+                        input = Regex.Replace(input,unique,Reverse(unique));
                     }
+                    
+
                 }
-                result.Add(inputLine);
-                inputLine = Console.ReadLine();
+                Console.WriteLine(SecurityElement.Escape(input));
+                input = Console.ReadLine();
             }
-            foreach(string str in result)
-            {
-                Console.WriteLine(SecurityElement.Escape(str));
-            }
+            //string inputLine = Console.ReadLine();
+            //string pattern = @"^[A-Z]+(?=[^\w])|(?<=[^\w])[A-Z]+$|(?<=[^\w])[A-Z]+(?=[^\w])";
+            //Regex reg = new Regex(pattern);
+            //List<string> result = new List<string>();
+            //while(!inputLine.Contains("END"))
+            //{
+            //    MatchCollection matches = reg.Matches(inputLine);
+            //    HashSet<string> noRepeats = new HashSet<string>();
+            //    foreach(Match match in matches)
+            //    {
+            //        noRepeats.Add(match.ToString());
+            //    }
+            //    foreach(string unique in noRepeats)
+            //    {
+            //        string reversed = Reverse(unique);
+            //        string proba = @"\b" + unique;
+            //        Regex rep = new Regex(proba);
+
+            //        if (unique != reversed)
+            //        {
+            //            inputLine = rep.Replace(inputLine, reversed);
+            //        }
+            //        else
+            //        {
+            //            inputLine = rep.Replace(inputLine,DoubleChars(unique));
+            //        }
+            //    }
+            //    result.Add(inputLine);
+            //    inputLine = Console.ReadLine();
+            //}
+            //foreach(string str in result)
+            //{
+            //    Console.WriteLine(SecurityElement.Escape(str));
+            //}
         }
 
         static string DoubleChars(string toDouble)
