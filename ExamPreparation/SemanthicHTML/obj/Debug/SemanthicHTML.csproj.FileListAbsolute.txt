@@ -1,1 +1,6 @@
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\bin\Debug\SemanthicHTML.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\bin\Debug\SemanthicHTML.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\bin\Debug\SemanthicHTML.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SemanthicHTML\obj\Debug\SemanthicHTML.pdb

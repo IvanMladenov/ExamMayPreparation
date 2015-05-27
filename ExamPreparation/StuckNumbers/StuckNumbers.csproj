@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>85aa778b-71fc-408e-8ff9-f9c98863de4d</ProjectGuid>
+    <ProjectGuid>{A5BAB1BF-7E23-4CFE-991D-FC94873DC423}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>StuckNumbers</RootNamespace>

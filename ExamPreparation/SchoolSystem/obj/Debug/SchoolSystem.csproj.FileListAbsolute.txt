@@ -1,0 +1,6 @@
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\bin\Debug\SchoolSystem.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\bin\Debug\SchoolSystem.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\bin\Debug\SchoolSystem.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.pdb
