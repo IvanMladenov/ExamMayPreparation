@@ -4,3 +4,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\bin\De
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.csprojResolveAssemblyReference.cache
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.pdb
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\TextGravity\bin\Debug\TextGravity.exe.config
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.exe
+C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.pdb
