@@ -30,7 +30,7 @@ namespace UppercaseWords
 
                     if(unique==Reverse(unique))
                     {
-                        string replacePattern = string.Format("(?<=[^a-zA-Z]){0}(?=[^a-zA-Z])", unique);
+                        string replacePattern = string.Format("(?<=[^a-zA-Z]|^)({0})(?=[^a-zA-Z]|$)", unique);
                         input = Regex.Replace(input, replacePattern, DoubleChars(unique));
 
                     }
@@ -43,41 +43,7 @@ namespace UppercaseWords
                 }
                 Console.WriteLine(SecurityElement.Escape(input));
                 input = Console.ReadLine();
-            }
-            //string inputLine = Console.ReadLine();
-            //string pattern = @"^[A-Z]+(?=[^\w])|(?<=[^\w])[A-Z]+$|(?<=[^\w])[A-Z]+(?=[^\w])";
-            //Regex reg = new Regex(pattern);
-            //List<string> result = new List<string>();
-            //while(!inputLine.Contains("END"))
-            //{
-            //    MatchCollection matches = reg.Matches(inputLine);
-            //    HashSet<string> noRepeats = new HashSet<string>();
-            //    foreach(Match match in matches)
-            //    {
-            //        noRepeats.Add(match.ToString());
-            //    }
-            //    foreach(string unique in noRepeats)
-            //    {
-            //        string reversed = Reverse(unique);
-            //        string proba = @"\b" + unique;
-            //        Regex rep = new Regex(proba);
-
-            //        if (unique != reversed)
-            //        {
-            //            inputLine = rep.Replace(inputLine, reversed);
-            //        }
-            //        else
-            //        {
-            //            inputLine = rep.Replace(inputLine,DoubleChars(unique));
-            //        }
-            //    }
-            //    result.Add(inputLine);
-            //    inputLine = Console.ReadLine();
-            //}
-            //foreach(string str in result)
-            //{
-            //    Console.WriteLine(SecurityElement.Escape(str));
-            //}
+            }            
         }
 
         static string DoubleChars(string toDouble)

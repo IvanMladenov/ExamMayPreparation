@@ -29,7 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolSystem", "SchoolSyste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticHTML", "SemanthicHTML\SemanticHTML.csproj", "{E13F049D-2FAB-4703-B80C-F5FBC49A6E11}"
 EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractHyperlinks", "ExtractHyperlinks\ExtractHyperlinks.csproj", "{F1E00656-9976-499D-A72D-D6E2D03CD34A}"
+=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid", "Pyramid\Pyramid.csproj", "{F7AAC167-C6CB-4887-956D-DA24659085F8}"
+>>>>>>> 6577da08ae0504e964347c5ec42e1758486a6495
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VladkosNotebook", "VladkosNotebook\VladkosNotebook.csproj", "{CFE9EDA8-7FEA-42AC-B439-A5532DDF59EC}"
 EndProject
@@ -91,14 +95,24 @@ Global
 		{E13F049D-2FAB-4703-B80C-F5FBC49A6E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E13F049D-2FAB-4703-B80C-F5FBC49A6E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E13F049D-2FAB-4703-B80C-F5FBC49A6E11}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{F1E00656-9976-499D-A72D-D6E2D03CD34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E00656-9976-499D-A72D-D6E2D03CD34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E00656-9976-499D-A72D-D6E2D03CD34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E00656-9976-499D-A72D-D6E2D03CD34A}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
 		{F7AAC167-C6CB-4887-956D-DA24659085F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F7AAC167-C6CB-4887-956D-DA24659085F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7AAC167-C6CB-4887-956D-DA24659085F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7AAC167-C6CB-4887-956D-DA24659085F8}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{CFE9EDA8-7FEA-42AC-B439-A5532DDF59EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CFE9EDA8-7FEA-42AC-B439-A5532DDF59EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFE9EDA8-7FEA-42AC-B439-A5532DDF59EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFE9EDA8-7FEA-42AC-B439-A5532DDF59EC}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 6577da08ae0504e964347c5ec42e1758486a6495
+>>>>>>> 84062b6be59a02bb570190dd8f660e0bcae807eb
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
