@@ -8,19 +8,25 @@ namespace MatrixShufle
 {
     class MatrixShufle
     {
+        public static int currentRow;
+        public static int currentCol;
+        public static int matrixSize;
+
         static void Main(string[] args)
         {
-            int matrixSize = int.Parse(Console.ReadLine());
+            matrixSize = int.Parse(Console.ReadLine());
             List<char> textToFill = Console.ReadLine().ToList();
+
             char[][]result=new char [matrixSize][];
+
             int textCount=textToFill.Count();
             for (int i =textCount ; i < matrixSize*matrixSize; i++)
             {
                 textToFill.Add(' ');
             }
 
-            int currentRow=0;
-            int currentCol=0;
+            currentCol = 0;
+            currentRow = 0;
 
             while(textToFill.Count>0)
             {
@@ -31,11 +37,18 @@ namespace MatrixShufle
             }
         }
 
-        static char[][] RightFill(char[][] matrix,List<char>text)
+        static void RightFill(char[][] matrix,List<char>text)
         {
-            char[][] filled = matrix;
-
-            return filled;
+            //char[][] filled = matrix;
+            int toStopAt=matrixSize-currentRow;
+            while(currentRow<toStopAt)
+            {
+                matrix[currentRow][currentCol] = text[0];
+                text.RemoveAt(0);
+                currentCol++;
+            }
+                
+            //return filled;
         }
 
         static char[][] LeftFill(char[][] matrix, List<char> text)
