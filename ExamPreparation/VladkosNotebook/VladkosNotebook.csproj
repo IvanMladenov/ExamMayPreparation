@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>2edb9ed7-bf22-4336-b586-0737f9771577</ProjectGuid>
+    <ProjectGuid>{CFE9EDA8-7FEA-42AC-B439-A5532DDF59EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>VladkosNotebook</RootNamespace>

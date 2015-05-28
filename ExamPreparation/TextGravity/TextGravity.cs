@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
+using System.Security;
 
 namespace TextGravity
 {
@@ -45,7 +46,7 @@ namespace TextGravity
                 Console.Write("<tr>");//"{0}", SecurityElement.Escape("<tr>"));
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    Console.Write("<td>{0}</td>", matrix[row, col]);
+                    Console.Write("<td>{0}</td>",SecurityElement.Escape(matrix[row, col].ToString()));
                 }
                 Console.Write("</tr>");//"{0}", SecurityElement.Escape("</tr>"));
             }
