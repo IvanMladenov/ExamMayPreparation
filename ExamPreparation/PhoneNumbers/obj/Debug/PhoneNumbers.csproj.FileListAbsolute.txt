@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PhoneNumbers\bin\Debug\PhoneNumbers.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PhoneNumbers\bin\Debug\PhoneNumbers.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PhoneNumbers\bin\Debug\PhoneNumbers.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PhoneNumbers\obj\Debug\PhoneNumbers.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PhoneNumbers\obj\Debug\PhoneNumbers.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PhoneNumbers\obj\Debug\PhoneNumbers.pdb

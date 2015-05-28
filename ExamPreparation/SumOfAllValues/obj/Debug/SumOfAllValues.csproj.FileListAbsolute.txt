@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SumOfAllValues\bin\Debug\SumOfAllValues.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SumOfAllValues\bin\Debug\SumOfAllValues.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SumOfAllValues\bin\Debug\SumOfAllValues.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SumOfAllValues\obj\Debug\SumOfAllValues.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SumOfAllValues\obj\Debug\SumOfAllValues.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SumOfAllValues\obj\Debug\SumOfAllValues.pdb
