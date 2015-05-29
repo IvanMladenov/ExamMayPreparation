@@ -47,11 +47,11 @@ namespace MatrixShufle
 
             if(IsPalindrome(final))
             {
-                Console.WriteLine("<div style='background-color:#4FE000'>{0} </div>", final);
+                Console.WriteLine("<div style='background-color:#4FE000'>{0}</div>", final);
             }
             else
             {
-                Console.WriteLine("<div style='background-color:#E0000F'>{0} </div>", final);
+                Console.WriteLine("<div style='background-color:#E0000F'>{0}</div>", final);
             }
         }
 

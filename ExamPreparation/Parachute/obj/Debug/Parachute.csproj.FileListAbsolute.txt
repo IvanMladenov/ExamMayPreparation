@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Parachute\bin\Debug\Parachute.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Parachute\bin\Debug\Parachute.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Parachute\bin\Debug\Parachute.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Parachute\obj\Debug\Parachute.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Parachute\obj\Debug\Parachute.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Parachute\obj\Debug\Parachute.pdb
