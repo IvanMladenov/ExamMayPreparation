@@ -12,11 +12,11 @@ namespace Parachute
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            List<char[]> layout = new List<char[]>();
 
             int indexOfParachute=0;
             bool parachuteOnMap = false;
-            int numberOfIterations = 1;
+            int numberOfIterations = 0;
+
             while(!input.Contains("END"))
             {
                 char[] row = input.ToCharArray();
@@ -27,19 +27,19 @@ namespace Parachute
                     if(row[curIndex]=='/'||row[curIndex]=='\\')
                     {
                         Console.WriteLine("Got smacked on the rock like a dog!");
-                        Console.WriteLine("{0}{1}", numberOfIterations, curIndex);
+                        Console.WriteLine("{0} {1}", numberOfIterations, curIndex);
                         break;
                     }
                     else if(row[curIndex]=='~')
                     {
                         Console.WriteLine("Drowned in the water like a cat!");
-                        Console.WriteLine("{0}{1}", numberOfIterations, curIndex);
+                        Console.WriteLine("{0} {1}", numberOfIterations, curIndex);
                         break;
                     }
                     else if(row[curIndex]=='_')
                     {
                         Console.WriteLine("Landed on the ground like a boss!");
-                        Console.WriteLine("{0}{1}", numberOfIterations, curIndex);
+                        Console.WriteLine("{0} {1}", numberOfIterations, curIndex);
                         break;
                     }
                     indexOfParachute = curIndex;

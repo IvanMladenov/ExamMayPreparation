@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNumbers", "TheNumbers\Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parachute", "Parachute\Parachute.csproj", "{7ED8A246-97DD-4E63-87BD-A36D9F5DF545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggestTableRow", "ConsoleApplication2\BiggestTableRow.csproj", "{B6C8F650-0981-4821-88C4-2690A66CED45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{7ED8A246-97DD-4E63-87BD-A36D9F5DF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ED8A246-97DD-4E63-87BD-A36D9F5DF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ED8A246-97DD-4E63-87BD-A36D9F5DF545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C8F650-0981-4821-88C4-2690A66CED45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C8F650-0981-4821-88C4-2690A66CED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C8F650-0981-4821-88C4-2690A66CED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C8F650-0981-4821-88C4-2690A66CED45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
