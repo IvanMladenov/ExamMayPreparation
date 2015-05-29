@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\OhMyGirl\bin\Debug\OhMyGirl.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\OhMyGirl\bin\Debug\OhMyGirl.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\OhMyGirl\bin\Debug\OhMyGirl.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\OhMyGirl\obj\Debug\OhMyGirl.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\OhMyGirl\obj\Debug\OhMyGirl.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\OhMyGirl\obj\Debug\OhMyGirl.pdb

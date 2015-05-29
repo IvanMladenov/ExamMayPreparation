@@ -12,7 +12,7 @@ namespace ChatLogger
     {
         static void Main(string[] args)
         {
-            DateTime currentTime = DateTime.Parse(Console.ReadLine(),CultureInfo.InvariantCulture,DateTimeStyles);
+            DateTime currentTime = DateTime.Parse(Console.ReadLine());
             string input = Console.ReadLine();
 
             SortedDictionary<DateTime, string> dict = new SortedDictionary<DateTime, string>();
@@ -20,7 +20,7 @@ namespace ChatLogger
             {
                 string[]arr=input.Split('/');
                 string message = arr[0].Trim();
-                DateTime date = DateTime.Parse(arr[1].Trim(),CultureInfo.InvariantCulture);
+                DateTime date = DateTime.Parse(arr[1].Trim());
                 dict.Add(date,message);
                 
                 input = Console.ReadLine();

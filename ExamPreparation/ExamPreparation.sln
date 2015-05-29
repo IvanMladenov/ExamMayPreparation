@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinValidation", "PinValidat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLogger", "ChatLogger\ChatLogger.csproj", "{07727F62-481C-41ED-B155-12B15AF6BF84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhMyGirl", "OhMyGirl\OhMyGirl.csproj", "{334C6C99-9753-4D22-8C20-84646807F838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{07727F62-481C-41ED-B155-12B15AF6BF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07727F62-481C-41ED-B155-12B15AF6BF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07727F62-481C-41ED-B155-12B15AF6BF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334C6C99-9753-4D22-8C20-84646807F838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334C6C99-9753-4D22-8C20-84646807F838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334C6C99-9753-4D22-8C20-84646807F838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334C6C99-9753-4D22-8C20-84646807F838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
