@@ -15,6 +15,7 @@ namespace ConsoleApplication2
             string pattern = @"(?<=<td>)-*\d*\.{0,1}\d+?(?=<\/td>)";
             Dictionary<double, List<string>> forPrint = new Dictionary<double, List<string>>();
             double maxSum = double.MinValue;
+            bool isData = false;
 
             while(!input.Contains("</table>"))
             {
@@ -22,6 +23,7 @@ namespace ConsoleApplication2
                 double currentSum = 0;
                 if (matches.Count > 0)
                 {
+                    isData = true;
                     List<string>currentValues=new List<string>();
                     foreach (Match item in matches)
                     {                        
@@ -36,7 +38,12 @@ namespace ConsoleApplication2
                 }
                 input = Console.ReadLine();
             }
-            Console.WriteLine("{0} = {1}", maxSum, string.Join(" + ", forPrint[maxSum]));
+            if (isData)
+            {
+                Console.WriteLine("{0} = {1}", maxSum, string.Join(" + ", forPrint[maxSum]));
+                return;
+            }
+            Console.WriteLine("no data");
         }
     }
 }

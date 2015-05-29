@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parachute", "Parachute\Para
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggestTableRow", "ConsoleApplication2\BiggestTableRow.csproj", "{B6C8F650-0981-4821-88C4-2690A66CED45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinValidation", "PinValidation\PinValidation.csproj", "{CA14C121-4129-4071-BDCF-B9779EDAC0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLogger", "ChatLogger\ChatLogger.csproj", "{07727F62-481C-41ED-B155-12B15AF6BF84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{B6C8F650-0981-4821-88C4-2690A66CED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C8F650-0981-4821-88C4-2690A66CED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C8F650-0981-4821-88C4-2690A66CED45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA14C121-4129-4071-BDCF-B9779EDAC0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA14C121-4129-4071-BDCF-B9779EDAC0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA14C121-4129-4071-BDCF-B9779EDAC0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA14C121-4129-4071-BDCF-B9779EDAC0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07727F62-481C-41ED-B155-12B15AF6BF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07727F62-481C-41ED-B155-12B15AF6BF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07727F62-481C-41ED-B155-12B15AF6BF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07727F62-481C-41ED-B155-12B15AF6BF84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
