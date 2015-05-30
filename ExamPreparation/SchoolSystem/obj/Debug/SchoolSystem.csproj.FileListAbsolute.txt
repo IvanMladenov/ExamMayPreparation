@@ -4,3 +4,9 @@ C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSyst
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.exe
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SchoolSystem\bin\Debug\SchoolSystem.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SchoolSystem\bin\Debug\SchoolSystem.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SchoolSystem\bin\Debug\SchoolSystem.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\SchoolSystem\obj\Debug\SchoolSystem.pdb

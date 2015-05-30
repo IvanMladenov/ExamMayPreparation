@@ -1,1 +1,6 @@
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\StuckNumbers\bin\Debug\StuckNumbers.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\StuckNumbers\bin\Debug\StuckNumbers.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\StuckNumbers\bin\Debug\StuckNumbers.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\StuckNumbers\bin\Debug\StuckNumbers.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\StuckNumbers\obj\Debug\StuckNumbers.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\StuckNumbers\obj\Debug\StuckNumbers.pdb

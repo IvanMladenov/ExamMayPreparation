@@ -4,3 +4,9 @@ C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\bi
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.csprojResolveAssemblyReference.cache
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.exe
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Pyramid\bin\Debug\Pyramid.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Pyramid\bin\Debug\Pyramid.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Pyramid\bin\Debug\Pyramid.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\Pyramid\obj\Debug\Pyramid.pdb

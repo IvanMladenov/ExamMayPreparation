@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLogger", "ChatLogger\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhMyGirl", "OhMyGirl\OhMyGirl.csproj", "{334C6C99-9753-4D22-8C20-84646807F838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITVillage", "ITVillage\ITVillage.csproj", "{F129C7B5-7D52-4744-8C11-6CAE754FBCB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{334C6C99-9753-4D22-8C20-84646807F838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{334C6C99-9753-4D22-8C20-84646807F838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{334C6C99-9753-4D22-8C20-84646807F838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F129C7B5-7D52-4744-8C11-6CAE754FBCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F129C7B5-7D52-4744-8C11-6CAE754FBCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F129C7B5-7D52-4744-8C11-6CAE754FBCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F129C7B5-7D52-4744-8C11-6CAE754FBCB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

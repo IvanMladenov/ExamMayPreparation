@@ -1,1 +1,7 @@
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\VladkosNotebook\bin\Debug\VladkosNotebook.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\VladkosNotebook\bin\Debug\VladkosNotebook.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\VladkosNotebook\bin\Debug\VladkosNotebook.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\VladkosNotebook\bin\Debug\VladkosNotebook.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\VladkosNotebook\obj\Debug\VladkosNotebook.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\VladkosNotebook\obj\Debug\VladkosNotebook.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\VladkosNotebook\obj\Debug\VladkosNotebook.pdb

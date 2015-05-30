@@ -1,1 +1,6 @@
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ClearCommands\bin\Debug\ClearCommands.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ClearCommands\bin\Debug\ClearCommands.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ClearCommands\bin\Debug\ClearCommands.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ClearCommands\bin\Debug\ClearCommands.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ClearCommands\obj\Debug\ClearCommands.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ClearCommands\obj\Debug\ClearCommands.pdb

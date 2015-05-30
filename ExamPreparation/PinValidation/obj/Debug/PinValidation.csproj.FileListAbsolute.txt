@@ -1,1 +1,5 @@
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PinValidation\bin\Debug\PinValidation.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PinValidation\bin\Debug\PinValidation.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PinValidation\bin\Debug\PinValidation.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PinValidation\obj\Debug\PinValidation.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\PinValidation\obj\Debug\PinValidation.pdb

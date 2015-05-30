@@ -1,0 +1,6 @@
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ITVillage\bin\Debug\ITVillage.exe.config
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ITVillage\bin\Debug\ITVillage.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ITVillage\bin\Debug\ITVillage.pdb
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ITVillage\obj\Debug\ITVillage.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ITVillage\obj\Debug\ITVillage.exe
+E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ITVillage\obj\Debug\ITVillage.pdb
