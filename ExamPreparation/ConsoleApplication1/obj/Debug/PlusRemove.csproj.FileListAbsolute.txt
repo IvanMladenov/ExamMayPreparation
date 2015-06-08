@@ -7,3 +7,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

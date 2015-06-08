@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\OlimpicsAreComming\bin\Debug\OlimpicsAreComming.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\OlimpicsAreComming\bin\Debug\OlimpicsAreComming.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\OlimpicsAreComming\bin\Debug\OlimpicsAreComming.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\OlimpicsAreComming\obj\Debug\OlimpicsAreComming.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\OlimpicsAreComming\obj\Debug\OlimpicsAreComming.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\OlimpicsAreComming\obj\Debug\OlimpicsAreComming.pdb
