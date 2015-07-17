@@ -29,8 +29,7 @@
                 {
                     movesMade++;
                     Console.WriteLine("Fell off a cliff! Game Over!");
-                    Console.WriteLine("Total moves made: {0}", movesMade);
-                    return;
+                    break;
                 }
 
                 char currentCellValue = labirint[currentPosition[0]][currentPosition[1]];
@@ -50,8 +49,7 @@
                     case ' ':
                         movesMade++;
                         Console.WriteLine("Fell off a cliff! Game Over!");
-                        Console.WriteLine("Total moves made: {0}", movesMade);
-                        return;
+                        break;
                     case '.':
                         movesMade++;
                         Console.WriteLine("Made a move!");
@@ -61,14 +59,13 @@
                     case '#':
                         movesMade++;
                         lives--;
+                        Console.WriteLine("Ouch! That hurt! Lives left: {0}", lives);
                         if (lives == 0)
                         {
                             Console.WriteLine("No lives left! Game Over!");
                             Console.WriteLine("Total moves made: {0}", movesMade);
                             return;
                         }
-
-                        Console.WriteLine("Ouch! That hurt! Lives left: {0}", lives);
                         break;
                 }
             }
