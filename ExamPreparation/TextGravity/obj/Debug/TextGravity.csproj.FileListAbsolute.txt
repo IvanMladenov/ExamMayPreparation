@@ -7,3 +7,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\De
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\TextGravity\bin\Debug\TextGravity.exe.config
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.exe
 C:\Users\ivan\Desktop\ExamProblems\ExamMayPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextGravity\bin\Debug\TextGravity.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextGravity\obj\Debug\TextGravity.pdb

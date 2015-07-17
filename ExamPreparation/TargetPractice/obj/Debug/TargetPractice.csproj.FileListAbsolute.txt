@@ -4,3 +4,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TargetPractice\bin
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TargetPractice\obj\Debug\TargetPractice.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\TargetPractice\obj\Debug\TargetPractice.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPractice\bin\Debug\TargetPractice.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPractice\obj\Debug\TargetPractice.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPractice\obj\Debug\TargetPractice.pdb

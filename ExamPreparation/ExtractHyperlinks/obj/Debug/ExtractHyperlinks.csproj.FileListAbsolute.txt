@@ -4,3 +4,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.csprojResolveAssemblyReference.cache
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.pdb

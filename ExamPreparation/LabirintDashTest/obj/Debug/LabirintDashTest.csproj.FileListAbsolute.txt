@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\LabirintDashTest\bin\Debug\LabirintDashTest.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\LabirintDashTest\bin\Debug\LabirintDashTest.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\LabirintDashTest\bin\Debug\LabirintDashTest.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\LabirintDashTest\obj\Debug\LabirintDashTest.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\LabirintDashTest\obj\Debug\LabirintDashTest.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\LabirintDashTest\obj\Debug\LabirintDashTest.pdb

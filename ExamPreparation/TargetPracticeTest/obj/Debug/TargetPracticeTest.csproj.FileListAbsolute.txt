@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPracticeTest\bin\Debug\TargetPracticeTest.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPracticeTest\bin\Debug\TargetPracticeTest.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPracticeTest\bin\Debug\TargetPracticeTest.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPracticeTest\obj\Debug\TargetPracticeTest.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPracticeTest\obj\Debug\TargetPracticeTest.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TargetPracticeTest\obj\Debug\TargetPracticeTest.pdb

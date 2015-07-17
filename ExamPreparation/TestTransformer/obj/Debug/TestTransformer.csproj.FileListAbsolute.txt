@@ -1,0 +1,5 @@
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TestTransformer\bin\Debug\TestTransformer.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TestTransformer\bin\Debug\TestTransformer.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TestTransformer\bin\Debug\TestTransformer.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TestTransformer\obj\Debug\TestTransformer.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TestTransformer\obj\Debug\TestTransformer.pdb

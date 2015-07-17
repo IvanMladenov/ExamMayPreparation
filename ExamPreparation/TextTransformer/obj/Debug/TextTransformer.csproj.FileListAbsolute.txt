@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextTransformer\bin\Debug\TextTransformer.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextTransformer\bin\Debug\TextTransformer.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextTransformer\bin\Debug\TextTransformer.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextTransformer\obj\Debug\TextTransformer.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextTransformer\obj\Debug\TextTransformer.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\TextTransformer\obj\Debug\TextTransformer.pdb

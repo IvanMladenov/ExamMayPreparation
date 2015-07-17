@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

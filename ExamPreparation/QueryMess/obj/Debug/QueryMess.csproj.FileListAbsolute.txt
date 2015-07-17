@@ -3,3 +3,6 @@ E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\QueryMess\bin\Debu
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\QueryMess\bin\Debug\QueryMess.pdb
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\QueryMess\obj\Debug\QueryMess.exe
 E:\Fundamentials\FundamentialFirstPreparation\ExamPreparation\QueryMess\obj\Debug\QueryMess.pdb
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\QueryMess\bin\Debug\QueryMess.exe.config
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\QueryMess\obj\Debug\QueryMess.exe
+E:\Fundamentials\HomeworksAdvancedC#\FundamentialFirstPreparation\ExamPreparation\QueryMess\obj\Debug\QueryMess.pdb
